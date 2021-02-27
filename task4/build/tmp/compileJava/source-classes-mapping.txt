@@ -1,0 +1,22 @@
+entity/Bike.java
+ entity.Bike
+repository/IBike.java
+ repository.IBike
+entity/Car.java
+ entity.Car
+enums/Shape.java
+ enums.Shape
+repository/ICar.java
+ repository.ICar
+entity/Vehicle.java
+ entity.Vehicle
+enums/Transmission.java
+ enums.Transmission
+repository/CarRepository.java
+ repository.CarRepository
+repository/IVehicle.java
+ repository.IVehicle
+Application.java
+ Application
+repository/VehicleRepository.java
+ repository.VehicleRepository
